@@ -1,0 +1,84 @@
+1:Within the past six months prior to participation, and on how often one was confronted with counter-attitudinal news, might be (un-)consciously biased. Nevertheless, the application of self-report measures allowed us to assess the degree of heterogeneity across various offline and online media types, which is very difficult to assess via objective methods. The HoHe score and its constituent items might be improved in future work, for example, by adding variables on the frequency of use, or the time spent on each media type. Another potential limitation is that across all results effect sizes were mostly small to medium, according to Cohen’s (1992) rules of thumb. This indicates that the degree of heterogeneity of one’s political news consumption, as well as voting intentions for a specific party, are complex psychological constructs and many different variables and their interactions contribute to explaining variance in them, with each single variable only having a small effect (Götz et al., 2021).
+
+Conclusion
+
+In conclusion, the results of the present study indicate that absolutely homogeneous political information environments across various media types might exist for a small proportion of individuals. Next to age and gender, the personality traits Openness (positively) and Agreeableness (negatively) seem to be associated with the degree of heterogeneity of an individual’s political information environment, especially for online media types (see Supplementary Material). This knowledge can support targeting certain groups for information campaigns in the future. In particular, individuals high in Agreeableness and low in Openness might profit from being informed about highly homogeneous political information environments and putative threats arising from them. Finally, no definite conclusion about associations between the degree of heterogeneity of an individual’s political information environments and voting intentions can be drawn from the present findings. Future studies should investigate other measures of political attitudes to shed further light on putative associations. In addition, longitudinal studies would be of great importance in investigating potential causal effects in these associations.
+
+Authors’ note
+
+All authors have agreed to the submission and the article is not currently being considered for publication by any other print or electronic journal.
+
+Authors’ contribution
+
+Cornelia Sindermann: Conceptualization, Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing - Original Draft, Visualization, Supervision, Project Administration, Funding Acquisition.
+
+Christopher Kannen: Software, Writing - Review & Editing.
+
+Christian Montag: Writing - Review & Editing.
+
+Declaration of conflicting interests
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. However, for reasons of transparency Dr. Montag mentions that he has received (to Ulm University and earlier University of Bonn) grants from agencies such as the
+# new media & society 26(2)
+
+German Research Foundation (DFG).
+page2:# new media & society 26(2)
+
+It is difficult to draw any firm conclusions regarding potential associations between the degree of heterogeneity of one’s political information environment and voting intentions. Lower heterogeneity was not associated with intentions of not voting, or to vote for a more extreme right-wing party, across samples. Models derived from linear discriminant analysis on associations of sociodemographic variables and the degree of heterogeneity of one’s political information environment with voting intentions revealed quite low classification accuracies. Therefore, we should not overinterpret these particular findings. Future studies might want to examine the associations between the degree of heterogeneity of political information environments and political attitudes in German samples in a slightly different way. For example, one could investigate the strength of party support, topic polarization, affective/partisan polarization via the “feeling thermometer,” or overall left–right ideological self-placement (e.g. Heatherly et al., 2017; Lee et al., 2014). Based on this idea, on an exploratory basis, we calculated the correlation between a 10-point left–right ideological self-placement item and the HoHe score in sample 2 (the left–right self-placement was only assessed in sample 2). The association was nonsignificant (ρ = –.02, p = .660). However, the association between an extremity score (absolute difference between self-placement on the left-right dimension and the mean scores 5 and 6) and the HoHe score was small but significant (ρ = .08, p = .037; these analyses were not preregistered). This indicates that these associations should be investigated in more depth in further studies to understand these complex relations.
+
+Some limitations of the present study must be acknowledged. First of all, neither of the two samples is completely representative of the general German population. Moreover, it is important that the generalizability of the findings will be tested in future studies in other countries. Nevertheless, we are confident that the results that were replicated across the two samples of the present study will also be found in other samples. Next, it should be emphasized that data collection for both surveys was conducted in times of an exceptional crisis, namely, during the COVID-19 pandemic. Therefore, many news stories across different platforms are likely to have included information about the virus and legal/policy regulations to combat it (e.g. lockdowns, stay-at-home orders, etc.; GöfaK Medienforschung, 2020, as cited in Statista, 2021; tagesschau.de, 2020). The focus on these topics across news platforms might adversely affect the generalizability of findings and might explain findings that were inconsistent with our hypotheses. For instance, according to a recent survey, voters of the AfD were mostly against the measures to fight the COVID-19 pandemic (Forschungsgruppe Wahlen, 2020), which might (in part) explain high HoHe scores in this group. The present study should therefore be replicated when topics related to the pandemic are not dominating the news. Another limitation is that the present surveys were cross-sectional. Any conclusions about causality are limited, accordingly. One might, however, cautiously infer causal influences on the degree of heterogeneity of one’s political information environment specifically for associations with sociodemographic variables and personality traits, which are generally seen as relatively stable (Costa and McCrae, 1992a; Edmonds et al., 2008; Roberts and Mroczek, 2008). Another limitation is the application of self-report measures. Assessment of personality, ideological attitudes, and voting intentions via self-reports might be influenced by response biases or lack of ability for introspection (McDonald, 2008). Also, the statements on how many news sources one consumed
+Within the past six months prior to participation, and on how often one was confronted with counter-attitudinal news, might be (un-)consciously biased.
+page3:# new media & society
+
+2024, Vol. 26(2) 711–731
+
+The degree of heterogeneity of news consumption in Germany—Descriptive statistics and relations with individual differences in personality, ideological attitudes, and voting intentions
+
+Cornelia Sindermann, Christopher Kannen and Christian Montag
+
+Ulm University, Germany
+
+Abstract
+
+This study aimed to examine the degree of homogeneity versus heterogeneity of individuals’ political information environments across offline and online media types and relations with sociodemographic variables, personality, and political attitudes. In two online surveys, German participants (sample 1: N = 686; sample 2: N = 702) provided information on sociodemographic variables, consumption of political news, and voting intentions, and completed the Big Five Inventory and Right-Wing Authoritarianism (RWA) and Social Dominance Orientation (SDO) scales. Results revealed that absolutely homogeneous political news consumption was evident for a small proportion of individuals (2.04% and 0.43%). Openness (positively) and Agreeableness (negatively) exhibited significant associations with the degree of heterogeneity of political information environments across samples. No consistent patterns of relations with either the ideological attitudes of RWA and SDO or voting intentions were observed. The findings shed light on the existence of absolutely homogeneous political information environments and “who” might be prone to a more homogeneous versus more heterogeneous information environment.
+
+Corresponding author:
+
+Cornelia Sindermann, Institute of Psychology and Education, Ulm University, Helmholtzstraße 8/1, Ulm 89081, Germany.
+
+Email: cornelia.sindermann@uni-ulm.de
+new media & society 26(2)
+
+Keywords
+
+Echo chamber, filter bubble, homogeneous information environment, ideological attitudes, news consumption, personality, political news, voting
+
+Introduction
+
+So-called filter bubbles and echo chambers generate much discussion in the mass media and scientific literature.
+page4:# new media & society 26(2)
+
+2. Next, for each media type used, participants were further asked about how many different sources they consumed political news on during the past 6 months via the respective media type (e.g. number of different TV news shows).
+
+3. Finally, for each media type used, participants were asked how often they were confronted with news contradicting their pre-existing attitudes during the past 6 months when consuming political news via the respective media type on an 11-point scale from 0.00 = “never” to 1.00 = “(almost) always” (in steps of 0.10).
+
+As described in the preregistration, the responses to the second variable on different news sources per media type were winsorized: If the score of a person was identified as a univariate outlier for the respective variable, the score was exchanged by the closest score which was not identified as an outlier, according to the formula by Tukey (1977).
+
+Using the variables described above, we were able to investigate the degree of heterogeneity across media types by summing scores derived from all media types. The homogeneity versus heterogeneity of political news consumption score (HoHe score) was calculated as follows:
+
+|HoHe score =|(tv_yes 1/0) × tv_nr × tv_contra|
+|---|---|
+| |(printt_yes 1/0) × print_nr × print_contra|
+| |(radio_yes 1/0) × radio_nr × radio_contra|
+| |(onlinenewswebsites_yes 1/0) × onlinenewswebsites_nr × onlinenewswebsites_contra|
+| |(apps_yes 1/0) × apps_nr × apps_contra|
+| |(aggregators_yes 1/0) × aggregators_nr × aggregators_contra|
+| |(podcasts_yes 1/0) × podcasts_nr × podcasts_contra|
+| |(newsfeed_yes 1/0) × newsfeed_nr × newsfeed_contra|
+
+By applying this formula, we made sure that (1) media types that were not used by an individual did not contribute to the HoHe score (also, all media types used by an individual were considered), (2) the variety of news sources within a media type was taken into account and increased the HoHe score, (3) the number of sources used via each media type was weighted with the frequency of being confronted with counter-attitudinal news on this media type, and (4) the result of the multiplication of sources within one media type by frequency of being confronted with counter-attitudinal news within this media type was weighted equally across media types.
+
+Higher scores indicate higher heterogeneity in one’s political news consumption. Importantly, the HoHe score can be interpreted relatively but cannot be interpreted in absolute terms: It is difficult to precisely specify what a score of 5 means because different patterns of responses to the items can lead to a score of 5, but a score of 10 versus 5 can be interpreted.
+# Statistical analyses
+
+Analyses were implemented in the statistical Software R 3.

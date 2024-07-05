@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: LLMeta
+Version: 1.0.0
+Summary: A tool for systematic reviews using large language models with RAG and HyDE
+Home-page: https://github.com/yebarryallen/LLMeta
+Author: Jinquan Ye
+Author-email: jinquan.ye@duke.edu
+Keywords: survey,carbon footprint,emissions
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: langchain_openai
+
+LLMeta is a Python package designed for conducting systematic reviews using large language models in conjunction with Retrieval Augmented Generation (RAG) and Hypothetical Document Embeddings (HyDE) techniques.

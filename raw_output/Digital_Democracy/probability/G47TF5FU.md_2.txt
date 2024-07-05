@@ -1,0 +1,5 @@
+[ChatCompletionTokenLogprob(token='{\n', bytes=[123, 10], logprob=-0.3011622, top_logprobs=[]), ChatCompletionTokenLogprob(token='   ', bytes=[32, 32, 32], logprob=-0.2646263, top_logprobs=[]), ChatCompletionTokenLogprob(token=' "', bytes=[32, 34], logprob=0.0, top_logprobs=[]), ChatCompletionTokenLogprob(token='value', bytes=[118, 97, 108, 117, 101], logprob=-4.3202e-07, top_logprobs=[]), ChatCompletionTokenLogprob(token='":', bytes=[34, 58], logprob=-4.365741e-06, top_logprobs=[]), ChatCompletionTokenLogprob(token=' "', bytes=[32, 34], logprob=-0.00015776986, top_logprobs=[]), ChatCompletionTokenLogprob(token='ex', bytes=[101, 120], logprob=-0.006545909, top_logprobs=[]), ChatCompletionTokenLogprob(token='posure', bytes=[112, 111, 115, 117, 114, 101], logprob=-4.365741e-06, top_logprobs=[]), ChatCompletionTokenLogprob(token='"\n', bytes=[34, 10], logprob=-9.2457245e-05, top_logprobs=[]), ChatCompletionTokenLogprob(token='}', bytes=[125], logprob=-5.5122365e-07, top_logprobs=[])]
+
+95.0066599398247
+
+1.05893049848393
