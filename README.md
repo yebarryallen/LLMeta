@@ -79,4 +79,6 @@ This function processes multiple papers concurrently, using `process_row` for ea
 ### `formated_output`
 This function formats the extracted data and probabilities into a structured CSV file. It reads answer, source, and probability files, processes them, and merges the results with the original metadata and variable definitions.
 
+## Citation
+
 
